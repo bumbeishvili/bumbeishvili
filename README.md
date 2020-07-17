@@ -3,11 +3,11 @@
 
 Past 5 years, I was building advanced data visualizations.
 <div>
-  <a href="#test"><img src="https://user-images.githubusercontent.com/6873202/87780018-de389880-c83e-11ea-8084-08ba91e3bfb6.gif"></a> 
-  <a href="#test"><img src="https://user-images.githubusercontent.com/6873202/87780023-e09af280-c83e-11ea-8780-68f4c1e73927.gif"></a> 
-  <a href="#test"><img src="https://user-images.githubusercontent.com/6873202/87780002-d8db4e00-c83e-11ea-9728-ab56c968face.gif"></a> 
-  <a href="#test"><img src="https://user-images.githubusercontent.com/6873202/87780012-dd076b80-c83e-11ea-892f-7573e9733df8.gif"></a> 
-  <a href="#test"><img src="https://user-images.githubusercontent.com/6873202/87780022-df69c580-c83e-11ea-9080-23da21171063.gif"></a> 
+  <a href="https://davidb.dev/project/marketers-globe"><img src="https://user-images.githubusercontent.com/6873202/87780018-de389880-c83e-11ea-8084-08ba91e3bfb6.gif"></a> 
+  <a href="https://davidb.dev/project/climate-ai"><img src="https://user-images.githubusercontent.com/6873202/87780023-e09af280-c83e-11ea-8780-68f4c1e73927.gif"></a> 
+  <a href="https://davidb.dev/project/coronavirus"><img src="https://user-images.githubusercontent.com/6873202/87780002-d8db4e00-c83e-11ea-9728-ab56c968face.gif"></a> 
+  <a href="https://davidb.dev/project/justice-snapshot"><img src="https://user-images.githubusercontent.com/6873202/87780012-dd076b80-c83e-11ea-892f-7573e9733df8.gif"></a> 
+  <a href="https://davidb.dev/project/climate-ai"><img src="https://user-images.githubusercontent.com/6873202/87780022-df69c580-c83e-11ea-9080-23da21171063.gif"></a> 
 </div>
 
 
