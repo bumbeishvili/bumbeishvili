@@ -1,5 +1,7 @@
 ### 👋 &nbsp; Hi there, I am David .
 
+
+Past 5 years, I was building advanced data visualizations
 <!--
 **bumbeishvili/bumbeishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
