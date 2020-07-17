@@ -1,4 +1,4 @@
-### Hi there, I am David 👋
+### Hi there 👋 , I am David .
 
 <!--
 **bumbeishvili/bumbeishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
