@@ -4,10 +4,7 @@
 Past 5 years, I was building advanced data visualizations.
 <div >
  <img style="margin:5px;padding:5px"  src="https://user-images.githubusercontent.com/6873202/87779474-e17f5480-c83d-11ea-84b3-abcd619e4eb7.gif">
- <img src="https://user-images.githubusercontent.com/6873202/87779738-59e61580-c83e-11ea-90b9-9f163d2f3be3.png">
-  
  <img src="https://user-images.githubusercontent.com/6873202/87779474-e17f5480-c83d-11ea-84b3-abcd619e4eb7.gif">
- 
  <img src="https://user-images.githubusercontent.com/6873202/87779474-e17f5480-c83d-11ea-84b3-abcd619e4eb7.gif">
  <img src="https://user-images.githubusercontent.com/6873202/87779474-e17f5480-c83d-11ea-84b3-abcd619e4eb7.gif">
 </div>
