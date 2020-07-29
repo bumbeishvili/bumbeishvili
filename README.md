@@ -1,4 +1,4 @@
-# 👋 &nbsp; Hi there, I am David .
+# Hi there, I am David .
 
 
 Past 5 years, I was building advanced data visualizations.
