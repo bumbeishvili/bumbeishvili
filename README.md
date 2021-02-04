@@ -18,6 +18,12 @@ Past 5 years, I was building advanced data visualizations.
 
 [Contact me](https://davidb.dev/contact) or check my website for more info - [davidb.dev](https://davidb.dev/)
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abgeo/count.svg" />
+</p>
+
 <!--
 **bumbeishvili/bumbeishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
