@@ -21,7 +21,7 @@ Past 5 years, I was building advanced data visualizations.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/abgeo/count.svg" />
+  <img src="https://profile-counter.glitch.me/bumbeishvili/count.svg" />
 </p>
 
 <!--
