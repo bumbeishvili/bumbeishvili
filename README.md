@@ -18,6 +18,8 @@ Past 5 years, I was building advanced data visualizations.
 
 [Contact me](https://davidb.dev/contact) or check my website for more info - [davidb.dev](https://davidb.dev/)
 
+You can also [book data viz related consultation session](https://www.fiverr.com/share/4XxG21) with me
+
 
 
 <!--
