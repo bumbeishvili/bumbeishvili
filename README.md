@@ -18,9 +18,15 @@ Past 5 years, I was building advanced data visualizations.
 
 [Contact me](https://davidb.dev/contact) or check my website for more info - [davidb.dev](https://davidb.dev/)
 
-You can also [book data viz related consultation session](https://www.fiverr.com/share/4XxG21) with me
+You can also [book data viz related consultation session](https://www.fiverr.com/share/4XxG21) with me.
 
 
+<a href="https://twitter.com/dbumbeishvili">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/bumbeishvili/bumbeishvili/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/bumbeishvili/bumbeishvili/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **bumbeishvili/bumbeishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
