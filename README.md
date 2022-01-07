@@ -1,7 +1,4 @@
-#### Hi there, I am David .
-
-
-Past 5 years, I was building advanced data visualizations.
+Hi there, I am David :) Past 5 years, I was building advanced data visualizations.
 <div>
   <a href="https://davidb.dev/project/marketers-globe"><img src="https://user-images.githubusercontent.com/6873202/87780018-de389880-c83e-11ea-8084-08ba91e3bfb6.gif"></a> 
   <a target="_blank" href="https://davidb.dev/project/climate-ai"><img src="https://user-images.githubusercontent.com/6873202/87780023-e09af280-c83e-11ea-8780-68f4c1e73927.gif"></a> 
