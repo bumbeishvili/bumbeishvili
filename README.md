@@ -5,7 +5,7 @@ Currently I am living and working from Tbilisi / Georgia.
 
 I do freelance data visualization work. You can check some of the projects on my personal website - [davidb.dev](https://davidb.dev) 
 
-In case you have an advanced data visualization project to work on [contact me](https://davidb.dev/about) , I am always happy to hear about it. 
+In case you have an advanced data visualization project [contact me](https://davidb.dev/about) , I am always happy to hear about it. 
 
 You can also book data viz related [consultation session](https://www.fiverr.com/share/4XxG21) with me.
 
