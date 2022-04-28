@@ -1,7 +1,6 @@
 Hi there, I am David :)
 
-For the past 6 years, I was building advanced data visualizations. Before that I was working as a full stack developer for several years.
-Currently I am living and working from Tbilisi / Georgia.
+For the past 6 years, I was building advanced web based data visualizations. Currently I am living and working from Tbilisi / Georgia.
 
 I do freelance data visualization work. You can check some of the projects on my personal website - [davidb.dev](https://davidb.dev) 
 
