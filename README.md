@@ -1,6 +1,6 @@
 Hi there, I am David :)
 
-For the past 6 years, I was building advanced web based data visualizations. Currently I am living and working from [Tbilisi](https://www.google.com/maps/place/Tbilisi/@41.7325661,44.7688137,12z/data=!3m1!4b1!4m5!3m4!1s0x40440cd7e64f626b:0x61d084ede2576ea3!8m2!3d41.7151377!4d44.827096) / Georgia.
+For the past 6 years, I was building advanced web based data visualizations. Currently I am living and working from [Tbilisi](https://www.google.com/maps/place/Tbilisi/@41.7325661,44.7688137,12z/data=!3m1!4b1!4m5!3m4!1s0x40440cd7e64f626b:0x61d084ede2576ea3!8m2!3d41.7151377!4d44.827096)
 
 I do freelance data visualization work. You can check some of the projects on my personal website - [davidb.dev](https://davidb.dev) 
 
