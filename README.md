@@ -12,7 +12,7 @@ You can also book data viz related [consultation session](https://www.fiverr.com
 <a href="https://twitter.com/dbumbeishvili">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/bumbeishvili/bumbeishvili/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/bumbeishvili/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/bumbeishvili/bumbeishvili/master/assets/linkedin.svg" />
 </a>
 
